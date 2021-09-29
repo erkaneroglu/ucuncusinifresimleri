@@ -184,5 +184,44 @@
   <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/zcıkarma3.jpg" width="250">
   <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/zcıkarma4.jpg" width="250">
   <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/zcıkarma5.jpg" width="250">
+  
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/carpmaislem1.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/carpmaislem2.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/carpmaislem3.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/carpmaislem4.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/carpmaislem5.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/carpmaislem6.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/carpmaislem7.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/carpmaislem8.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/carpmaislem9.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/carpmaislem10.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/carpmaislem11.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/carpmaislem12.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/carpmaislem13.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/carpmaislem14.jpg" width="250">
+  
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/fark1.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/fark2.jpg" width="250">
+  
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/nesnesekil1.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/nesnesekil2.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/nesnesekil3.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/nesnesekil4.jpg" width="250">
+  
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/verilmeyen1.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/verilmeyen2.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/verilmeyen3.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/verilmeyen4.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/verilmeyen5.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/verilmeyen6.jpg" width="250">
+  <img src="https://github.com/erkaneroglu/ucuncusinifresimleri/blob/main/verilmeyen7.jpg" width="250">
+  
+  
+  
+  
+  
+  
+  
+  
  </p>
  <br>
